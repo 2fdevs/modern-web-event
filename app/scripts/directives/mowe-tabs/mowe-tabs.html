@@ -1,0 +1,5 @@
+<style>@import 'scripts/directives/mowe-tabs/mowe-tabs.css';</style>
+
+<mowe-tab mowe-data-provider="tab" ng-repeat="tab in ctrl.moweDataProvider" ng-class="{selected: ctrl.selectedTab === tab}" ng-click="ctrl.onClickTab(tab)"></mowe-tab>
+
+<mowe-content mowe-data-provider="ctrl.selectedTab"></mowe-content>

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACR,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC",
+"sources": ["mowe-tabs.scss"],
+"names": [],
+"file": "mowe-tabs.css"
+}

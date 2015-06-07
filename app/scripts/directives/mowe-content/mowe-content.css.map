@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EAEf,MAAM,EAAE,iBAAiB;EACzB,aAAa,EAAE,OAAO",
+"sources": ["mowe-content.scss"],
+"names": [],
+"file": "mowe-content.css"
+}
